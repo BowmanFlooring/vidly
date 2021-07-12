@@ -1,0 +1,13 @@
+{
+    "python.defaultInterpreterPath": "/Users/dakotabowman/.local/share/virtualenvs/vidly-K-9tYZMO/bin/python3",
+    "terminal.integrated.fontFamily": "'Victor Mono'",
+    "terminal.integrated.fontSize": 18,
+    "terminal.integrated.fontWeight": 200,
+    "terminal.integrated.fontWeightBold": "1000",
+    "editor.fontFamily": "'Victor Mono'",
+    "editor.fontSize": 18,
+    "python.linting.enabled": true,
+    "vsintellicode.features.python.deepLearning": "enabled",
+    "editor.formatOnSave": true,
+    "python.workspaceSymbols.enabled": true
+}

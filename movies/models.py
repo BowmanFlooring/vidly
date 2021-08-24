@@ -1,6 +1,7 @@
 # In Django, we have this package - 'django.db'. Within that package, we have a
 # module colled 'models'. In that module, we have a class called 'Models". To
 # import it into this file, here's what the import statement would look like:
+from movies.apps import MoviesConfig
 from django.db import models
 # This package encapsulates ALL THINGS necessary for working with databases.
 
